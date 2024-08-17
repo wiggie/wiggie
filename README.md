@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![welcome](https:/wiggie.github.io/project_demos/welcome.jpg)
 <!--
 **wiggie/wiggie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
