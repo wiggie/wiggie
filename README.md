@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my github profile! 👋
 
 ![welcome](https://github.com/wiggie/wiggie/blob/main/welcome.jpg)
 <!--
